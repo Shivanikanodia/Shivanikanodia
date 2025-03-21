@@ -3,27 +3,29 @@
 
 🔍 **Data Scientist  | People Analytics Specialist | Business Analytics Enthusiast**
 
-🎓 Currently pursuing my Master's in Business Analytics at **California State University, East Bay**, I bring **5+ years of experience** in People Analytics, Data Science, and Business Intelligence. I specialize in transforming complex datasets into actionable insights that drive strategic decisions.
+🎓 Currently pursuing my Master's in Business Analytics at **California State University, East Bay**, I bring **3+ years of experience** in People Analytics, Data Science, and Business Intelligence. I specialize in transforming complex datasets into actionable insights that drive strategic decisions with maximise business impact and results.
 
 ---
 
 ### 🔭 What I'm Working On
-- 🚀 **Time Series Forecasting Models**: Exploring SARIMA, Holt-Winters, and Regression-based models in R & Python.
-- 📊 **Advanced People Analytics Dashboards**: Interactive dashboards with **Tableau** and **Looker Studio**.
+- 🚀 **Time Series Forecasting Models**: Exploring SARIMA, LSTM and prophet models in R & Python.
+- 📊 **People Analytics Dashboards**: Interactive dashboards with **Tableau** and **Looker Studio**.
 - 💡 **Predictive Analytics Projects**: Fraud detection, attrition analysis, and customer segmentation using machine learning techniques in **Python**.
+- 💡 **Recommendation System Model** : Employing techniques like Content-Based Filterin, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
 
 ---
 
 ### 🌱 What I'm Learning
 - 🛠️ **Databricks & PySpark** for scalable data processing.
 - ☁️ **AWS Cloud Services** for deploying machine learning models.
-- 🤖 **NLP & Text Analytics** for deriving insights from employee feedback and customer reviews.
+- 🤖 **NLP, Deep learning & Text Analytics**
+-  Actively coding on **Hackerrank and Leetocode** for scale up my practical understnading of algorithms and DSA, along with working on complex SQL queries.
 
 ---
 
 ### 👯 Let's Collaborate!
 I'm open to collaborating on:
-- 📈 **Data Science & Analytics Projects**
+- 📈 **Data Science & Analytics Projects in different domains**
 - 👥 **People Analytics & Workforce Planning**
 - 📚 **Mentorship & Knowledge Sharing**
 
@@ -31,6 +33,7 @@ I'm open to collaborating on:
 
 ### 💬 Ask Me About
 - 📊 Data Analysis & Visualization (Tableau, Looker Studio, Power BI)
+- 📊 Machine learning models (Random forest, decision trees, K-means clustering and Time Series forecasting 
 - 🐍 Python (pandas, sklearn, matplotlib, seaborn)
 - 🔎 SQL (complex queries, optimization, data wrangling)
 - 🤝 Stakeholder Engagement & Business Storytelling
@@ -40,14 +43,14 @@ I'm open to collaborating on:
 
 ### 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shivanikanodia)
-- 📧 Email: shivanikanodia@gmail.com
+- 📧 Email: kanodiashivani27@gmail.com
 - 📁 [Portfolio](https://github.com/Shivanikanodia)
 - 📊 [Tableau Dashboards](https://shorturl.at/hGzDx)
 
 ---
 
 ### ⚡ Fun Fact
-I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me exploring **new cafes**, **hiking**, or diving into **personal development books**.
+I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comdedy**,**performing dance** or diving into **personal development**.
 
 ---
 
