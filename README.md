@@ -7,19 +7,19 @@
 
 ---
 
-### 🔭 What I'm Working On
+### 🔭 What I'm Working on right now: 
 - 🚀 **Time Series Forecasting Models**: Exploring SARIMA, LSTM and prophet models in R & Python.
-- 📊 **People Analytics Dashboards**: Interactive dashboards with **Tableau** and **Looker Studio**.
-- 💡 **Predictive Analytics Projects**: Fraud detection, attrition analysis, and customer segmentation using machine learning techniques in **Python**.
-- 💡 **Recommendation System Model** : Employing techniques like Content-Based Filterin, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
+- 📊 **Customer and Sales Dashboards**: Interactive dashboards with **Tableau**. 
+- 💡 **Predictive Analytics Projects**: customer segmentation using machine learning techniques in **Python**.
+- 💡 **Recommendation System Model** : Employing techniques like Content-Based Filtering, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
 
 ---
 
 ### 🌱 What I'm Learning
 - 🛠️ **Databricks & PySpark** for scalable data processing.
-- ☁️ **AWS Cloud Services** for deploying machine learning models.
+- ☁️ **AWS Cloud Services** for deploying and managing machine learning models.
 - 🤖 **NLP, Deep learning & Text Analytics**
--  Actively coding on **Hackerrank and Leetocode** for scale up my practical understnading of algorithms and DSA, along with working on complex SQL queries.
+-  Actively coding on **Hackerrank and Leetocode** for scale up my practical understanding of algorithms, along with working on complex SQL queries for adhoc reporting. 
 
 ---
 
@@ -32,10 +32,10 @@ I'm open to collaborating on:
 ---
 
 ### 💬 Ask Me About
-- 📊 Data Analysis & Visualization (Tableau, Looker Studio, Power BI)
-- 📊 Machine learning models (Random forest, decision trees, K-means clustering and Time Series forecasting 
+- 📊 Data Analysis & Visualization (Tableau AND Looker Studio)
+- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means clustering and Time Series forecasting models) 
 - 🐍 Python (pandas, sklearn, matplotlib, seaborn)
-- 🔎 SQL (complex queries, optimization, data wrangling)
+- 🔎 SQL (complex queries, Joins, Windows, optimization, data wrangling)
 - 🤝 Stakeholder Engagement & Business Storytelling
 - ⚙️ Building Scalable Data Pipelines (SQL, Databricks)
 
