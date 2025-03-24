@@ -10,7 +10,6 @@
 ### 🔭 What I'm Working on right now: 
 - 🚀 **Time Series Forecasting Models**: Exploring SARIMA, LSTM and prophet models in R & Python.
 - 📊 **Customer and Sales Dashboards**: Interactive dashboards with **Tableau**. 
-- 💡 **Predictive Analytics Projects**: customer segmentation using machine learning techniques in **Python**.
 - 💡 **Recommendation System Model** : Employing techniques like Content-Based Filtering, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
 
 ---
