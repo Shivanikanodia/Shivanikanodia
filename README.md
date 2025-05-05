@@ -8,9 +8,9 @@
 ---
 
 ### 🔭 What I'm Working on right now: 
-- 🚀 **Time Series Forecasting Models**: Exploring SARIMA, LSTM and prophet models in R & Python.
-- 📊 **Customer and Sales Dashboards**: Interactive dashboards with **Tableau**. 
-- 💡 **Recommendation System Model** : Employing techniques like Content-Based Filtering, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
+- 🚀 **Time Series Forecasting Models**: Exploring SARIMA and prophet models in R & Python.
+- 📊 **NLP**: Performing sentiment Analysis for Social Media Post and Customer feedbacks.  
+- 💡 **Recommendation System Model for Ecommerce Products** : Employing techniques like Content-Based Filtering, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
 
 ---
 
@@ -32,7 +32,7 @@ I'm open to collaborating on:
 
 ### 💬 Ask Me About
 - 📊 Data Analysis & Visualization (Tableau AND Looker Studio)
-- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means clustering and Time Series forecasting models) 
+- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means clustering,NLP and Time Series forecasting models) 
 - 🐍 Python (pandas, sklearn, matplotlib, seaborn)
 - 🔎 SQL (complex queries, Joins, Windows, optimization, data wrangling)
 - 🤝 Stakeholder Engagement & Business Storytelling
