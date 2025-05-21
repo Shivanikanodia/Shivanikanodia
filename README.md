@@ -9,9 +9,8 @@
 
 ### 🔭 What I'm Working on right now: 
 - 🚀 **Time Series Forecasting Models**: Exploring SARIMA and prophet models in R & Python.
-- 📊 **NLP**: Performing sentiment Analysis for Social Media Post and Customer feedbacks.  
-- 💡 **Recommendation System Model for Ecommerce Products** : Employing techniques like Content-Based Filtering, Collaborative Filtering, K-means clustering and Recurrent Neural Networks (RNN) in **Python**. 
-
+- 📊 **NLP AND AI**: Performing sentiment Analysis for Social Media Posting and Employee feedbacks.  
+  
 ---
 
 ### 🌱 What I'm Learning
