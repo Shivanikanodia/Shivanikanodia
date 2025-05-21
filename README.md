@@ -3,7 +3,7 @@
 
 🔍 **Data Scientist  | People Analytics Specialist | Business Analytics Enthusiast**
 
-🎓 Currently pursuing my Master's in Business Analytics at **California State University, East Bay**, I bring **3+ years of experience** in People Analytics, Data Science, and Business Intelligence. I specialize in transforming complex datasets into actionable insights that drive strategic decisions with maximise business impact and results.
+🎓 Currently pursuing my Master's in Business Analytics at **California State University, East Bay**, I bring **2+ years of experience** in People Analytics, Data Science, and Business Intelligence. I specialize in transforming complex datasets into actionable insights that drive strategic decisions with maximise business impact and results.
 
 ---
 
