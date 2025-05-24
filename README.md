@@ -1,22 +1,21 @@
 
 ## Hi there! 👋 I'm Shivani Kanodia
 
-🔍 **Data Scientist  | People Analytics Specialist | Business Analytics Enthusiast**
+🔍 **Data Scientist  | People Analytics Specialist |**
 
-🎓 Currently pursuing my Master's in Business Analytics at **California State University, East Bay**, I bring **2+ years of experience** in People Analytics, Data Science, and Business Intelligence. I specialize in transforming complex datasets into actionable insights that drive strategic decisions with maximise business impact and results.
+🎓 I offer experience and take ownership of a wide range of tasks—including conducting research, crafting complex SQL queries, building interactive dashboards with Tableau, and leading project planning and experimentation phases. I develop data-driven machine learning models using Python and have experience of successful collaboration across cross-functional teams.
+I define and monitor key performance metrics to evaluate the impact and success of each project.
+
+Skills: Data Wrangling, Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, Model Development & Deployment using AWS SageMaker.
+
+I am passionate about working with large-scale data across domains such as employee analytics, banking, and e-commerce.
 
 ---
 
 ### 🔭 What I'm Working on right now: 
-- 🚀 **Time Series Forecasting Models**: Exploring SARIMA and prophet models in R & Python.
 - 📊 **NLP AND AI**: Performing sentiment Analysis for Social Media Posting and Employee feedbacks.  
-  
----
-
-### 🌱 What I'm Learning
 - 🛠️ **Databricks & PySpark** for scalable data processing.
 - ☁️ **AWS Cloud Services** for deploying and managing machine learning models.
-- 🤖 **NLP, Deep learning & Text Analytics**
 -  Actively coding on **Hackerrank and Leetocode** for scale up my practical understanding of algorithms, along with working on complex SQL queries for adhoc reporting. 
 
 ---
@@ -48,7 +47,7 @@ I'm open to collaborating on:
 ---
 
 ### ⚡ Fun Fact
-I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comdedy**,**performing dance** or diving into **personal development**.
+I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comedy**,**performing dance** or diving into **personal development**.
 
 ---
 
