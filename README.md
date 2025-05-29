@@ -8,7 +8,7 @@ I define and monitor key performance metrics to evaluate the impact and success 
 
 Skills: Data Wrangling, Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, Model Development & Management using mlfow.
 
-I am passionate about working with large-scale data across domains such as employee analytics, banking, and e-commerce.
+I am passionate about working with large-scale data across domains such as employee analytics, Chatbots, banking, and e-commerce.
 
 ---
 
