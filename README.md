@@ -15,7 +15,7 @@ I am passionate about working with large-scale data across domains such as emplo
 ### 🔭 What I'm Working on right now: 
 - 📊 **NLP AND AI**: Performing sentiment Analysis for Social Media Posting and Employee feedbacks.  
 - 🛠️ **Databricks Mlflow:** for Experimentation and Production ready models. 
-- ☁️ **RAG & LLM Models** Exploring LLMs & RAG pipelines using FAISS and OpenAI for domain-specific Q&A systems. Passionate about making complex data accessible through retrieval-augmented generation.
+- ☁️ **RAG & LLM Models:** Exploring LLMs & RAG pipelines using FAISS and OpenAI for domain-specific Q&A systems. Passionate about making complex data accessible through retrieval-augmented generation.
 -  Actively coding on **Hackerrank and Leetocode** for scale up my practical understanding of algorithms, along with working on complex SQL queries for adhoc reporting. 
 
 ---
