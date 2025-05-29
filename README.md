@@ -14,8 +14,8 @@ I am passionate about working with large-scale data across domains such as emplo
 
 ### 🔭 What I'm Working on right now: 
 - 📊 **NLP AND AI**: Performing sentiment Analysis for Social Media Posting and Employee feedbacks.  
-- 🛠️ **Databricks & PySpark** for scalable data processing.
-- ☁️ **AWS Cloud Services** for deploying and managing machine learning models.
+- 🛠️ **Databricks Mlflow:** for Experimentation and Production ready models. 
+- ☁️ **RAG & LLM Models** Exploring LLMs & RAG pipelines using FAISS and OpenAI for domain-specific Q&A systems. Passionate about making complex data accessible through retrieval-augmented generation.
 -  Actively coding on **Hackerrank and Leetocode** for scale up my practical understanding of algorithms, along with working on complex SQL queries for adhoc reporting. 
 
 ---
@@ -23,15 +23,15 @@ I am passionate about working with large-scale data across domains such as emplo
 ### 👯 Let's Collaborate!
 I'm open to collaborating on:
 - 📈 **Data Science & Analytics Projects in different domains**
-- 👥 **People Analytics & Workforce Planning**
+- 👥 **RAG,LLM & NLP Concepts**
 - 📚 **Mentorship & Knowledge Sharing**
 
 ---
 
 ### 💬 Ask Me About
 - 📊 Data Analysis & Visualization (Tableau AND Looker Studio)
-- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means clustering,NLP and Time Series forecasting models) 
-- 🐍 Python (pandas, sklearn, matplotlib, seaborn)
+- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means Clustering,NLP and Time Series forecasting models) 
+- 🐍 Python (pandas, sklearn, matplotlib, seaborn, tensorflow)
 - 🔎 SQL (complex queries, Joins, Windows, optimization, data wrangling)
 - 🤝 Stakeholder Engagement & Business Storytelling
 - ⚙️ Building Scalable Data Pipelines (SQL, Databricks)
