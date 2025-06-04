@@ -28,16 +28,6 @@ I'm open to collaborating on:
 
 ---
 
-### 💬 Ask Me About
-- 📊 Data Analysis & Visualization (Tableau AND Looker Studio)
-- 📊 Machine learning models (Random forest, decision trees, XGBoost, K-means Clustering,NLP and Time Series forecasting models) 
-- 🐍 Python (pandas, sklearn, matplotlib, seaborn, tensorflow)
-- 🔎 SQL (complex queries, Joins, Windows, optimization, data wrangling)
-- 🤝 Stakeholder Engagement & Business Storytelling
-- ⚙️ Building Scalable Data Pipelines (SQL, Databricks)
-
----
-
 ### 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shivanikanodia)
 - 📧 Email: kanodiashivani27@gmail.com
