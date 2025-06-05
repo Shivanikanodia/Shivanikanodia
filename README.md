@@ -1,14 +1,13 @@
 
 ## Hi there! 👋 I'm Shivani Kanodia
 
-🔍 **Data Scientist  | People Analytics Specialist |**
+I am committed to continuous growth—both personally and professionally. I believe in educating and refining myself every step of the way to become a better version of who I was yesterday. I never settle, which is why I embrace a mindset of lifelong learning and self-improvement.
 
 🎓 I offer experience and take ownership of a wide range of tasks—including conducting research, crafting complex SQL queries, building interactive dashboards with Tableau, and leading project planning and experimentation phases. I develop data-driven machine learning models using Python and have experience of successful collaboration across cross-functional teams.
 I define and monitor key performance metrics to evaluate the impact and success of each project.
 
 Skills: Data Wrangling, Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, Model Development & Management using mlfow.
 
-I am passionate about working with large-scale data across domains such as employee analytics, Chatbots, banking, and e-commerce.
 
 ---
 
