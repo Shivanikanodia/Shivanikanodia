@@ -18,7 +18,7 @@ I build and deploy Machine learning models using Python, with monitoring them fo
 ### 👯 Let's Collaborate!
 I'm open to collaborating on:
 - 📈 **Data Science & Agentic AI Projects in different domains**
-- 
+  
 ---
 
 ### 📫 How to Reach Me
@@ -30,7 +30,7 @@ I'm open to collaborating on:
 ---
 
 ### ⚡ Fun Fact
-I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comedy**,**performing dance** or diving into **personal development**.
+I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comedy,dancing** or diving into **personal development**.
 
 ---
 
