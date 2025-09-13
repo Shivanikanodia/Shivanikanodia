@@ -1,5 +1,4 @@
 
-## Hi there! 👋 I'm Shivani Kanodia
 
 I am committed to continuous growth—both personally and professionally. I believe in educating and refining myself every step of the way to become a better version of who I was yesterday. I never settle, which is why I embrace a mindset of lifelong learning and self-improvement.
 
