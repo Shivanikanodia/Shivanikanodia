@@ -2,28 +2,23 @@
 
 I am committed to continuous growth—both personally and professionally. I believe in educating and refining myself every step of the way to become a better version of who I was yesterday. I never settle, which is why I embrace a mindset of lifelong learning and self-improvement.
 
-🎓 I offer experience and take ownership of a wide range of tasks—including conducting research, crafting complex SQL queries, building interactive dashboards with Tableau, and leading project planning and experimentation phases. I develop data-driven machine learning models using Python and have experience of successful collaboration across cross-functional teams.
-I define and monitor key performance metrics to evaluate the impact and success of each project.
+I offer experience and take ownership of solving Business Problem by conducting in depth research, and leading ML project planning and experimentation phases. 
+I build and deploy Machine learning models using Python, with monitoring them for impact and inferences. 
 
-Skills: Data Wrangling, Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, Model Development & Management using mlfow.
-
+**Skills:** Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, End to End ML Model Building and monitoring using MLFLOW. 
 
 ---
 
 ### 🔭 What I'm Working on right now: 
-- 📊 **NLP AND AI**: Performing sentiment Analysis for Social Media Posting and Employee feedbacks.  
-- 🛠️ **Databricks Mlflow:** for Experimentation and Production ready models. 
-- ☁️ **RAG & LLM Models:** Exploring LLMs & RAG pipelines using FAISS and OpenAI for domain-specific Q&A systems. Passionate about making complex data accessible through retrieval-augmented generation.
--  Actively coding on **Hackerrank and Leetocode** for scale up my practical understanding of algorithms, along with working on complex SQL queries for adhoc reporting. 
+- **NLP AND AI**: Performing Sentiment Analysis for Social Media Posting and Employee feedbacks.
+- **Agent Developement**: Building an Agentic Solution to Predict Employee Attrition. 
 
 ---
 
 ### 👯 Let's Collaborate!
 I'm open to collaborating on:
-- 📈 **Data Science & Analytics Projects in different domains**
-- 👥 **RAG,LLM & NLP Concepts**
-- 📚 **Mentorship & Knowledge Sharing**
-
+- 📈 **Data Science & Agentic AI Projects in different domains**
+- 
 ---
 
 ### 📫 How to Reach Me
