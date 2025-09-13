@@ -1,6 +1,6 @@
 
 
-I am committed to continuous growth—both personally and professionally. I believe in educating and refining myself every step of the way to become a better version of who I was yesterday. I never settle, which is why I embrace a mindset of lifelong learning and self-improvement.
+I am committed to continuous growth both personally and professionally. I believe in educating and refining myself every step of the way to become a better version of who I was yesterday. I never settle, which is why I embrace a mindset of lifelong learning and self-improvement.
 
 I offer experience and take ownership of solving Business Problem by conducting in depth research, and leading ML project planning and experimentation phases. 
 I build and deploy Machine learning models using Python, with monitoring them for impact and inferences. 
