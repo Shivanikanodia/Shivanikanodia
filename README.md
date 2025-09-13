@@ -38,9 +38,9 @@ I love turning messy datasets into beautiful stories! When I'm not crunching num
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00BCD4?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ---
 
