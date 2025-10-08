@@ -5,13 +5,13 @@ I am committed to continuous growth both personally and professionally. I believ
 I offer experience and take ownership of solving Business Problem by conducting in depth research, and leading ML project planning and experimentation phases. 
 I build and deploy Machine learning models using Python, with monitoring them for impact and inferences. 
 
-**Skills:** Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, End to End ML Model Building and monitoring using MLFLOW. 
+**Skills:** Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, End to End ML Model Algorithms (Random Forest, Xgboost and Logistic Regression) and ML Tracking using using MLFLOW. 
 
 ---
 
 ### 🔭 What I'm Working on right now: 
 - **NLP AND AI**: Performing Sentiment Analysis for Social Media Posting and Employee feedbacks.
-- **Agent Developement**: Building an Agentic Solution to Predict Employee Attrition. 
+- **Agent Developement**: Building an AI Agentic Solution for Recommendation System.
 
 ---
 
@@ -24,13 +24,13 @@ I'm open to collaborating on:
 ### 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shivanikanodia)
 - 📧 Email: kanodiashivani27@gmail.com
-- 📁 [Portfolio](https://github.com/Shivanikanodia)
 - 📊 [Tableau Dashboards](https://shorturl.at/hGzDx)
 
 ---
 
-### ⚡ Fun Fact
-I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comedy,dancing** or diving into **personal development**.
+### ⚡ Fun Fact:
+
+I love turning messy datasets into beautiful stories! When I'm not crunching numbers, you can find me doing **standup comedy, dancing** or diving into **personal development**.
 
 ---
 
