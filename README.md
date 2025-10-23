@@ -5,12 +5,12 @@ I am committed to continuous growth both personally and professionally. I believ
 I offer experience and take ownership of solving Business Problem by conducting in depth research, and leading ML project planning and experimentation phases. 
 I build and deploy Machine learning models using Python, with monitoring them for impact and inferences. 
 
-**Skills:** Exploratory Data Analysis (EDA), SQL, Python, A/B Testing, End to End ML Model Algorithms (Random Forest, Xgboost and Logistic Regression) and ML Tracking using using MLFLOW. 
+**Skills:** GenAI, RAG, LLM, SQL, Python, End to End ML Model Building, ML Tracking using using MLFLOW and Model deployement. 
 
 ---
 
 ### 🔭 What I'm Working on right now: 
-- **NLP AND AI**: Performing Sentiment Analysis for Social Media Posting and Employee feedbacks.
+- **NLP AND AI**: Performing Sentiment Analysis using NLP on Employee feedbacks.
 - **Agent Developement**: Building an AI Agentic Solution for Recommendation System.
 
 ---
